@@ -10,6 +10,10 @@ public class C {
 		
 		naukri.testArith();
 		naukri.testNaukri();
+		
+		
+		
+		
 	}
 
 }
