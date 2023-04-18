@@ -10,8 +10,6 @@ public class C {
 		
 		naukri.testArith();
 		naukri.testNaukri();
-		System.out.println("Testing");
-		
 	}
 
 }
